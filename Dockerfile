@@ -10,4 +10,4 @@ RUN apt-get update && apt-get install -y \
     python3-pyaudio 
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
-CMD [ "python", "./start.py" ]
+CMD "python ./start.py"
