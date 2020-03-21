@@ -1,0 +1,26 @@
+Hallo, herzlich willkommen beim Gesundheitsministerium! Ich bin ein virtueller Assistent und stelle Ihnen nun einige Fragen zu Ihrem Gesundheitszustand. Anschließend bekommen Sie eine Einschätzung von mir, wie wahrscheinlich es ist, dass Sie mit dem Coronavirus infiziert sind. Wenn Sie eine Frage nicht beantworten können oder wollen, dann sagen Sie bitte “Weiter”. Wir beginnen mit dem Alter.
+Wie alt sind Sie?
+
+Hatten Sie in den letzten vier Wochen Kontakt mit einem bestätigten Corona Fall?
+
+Hatten Sie in den letzten vier Wochen Kontakt mit einem Corona Verdachtsfall?
+
+Waren Sie in den letzten vier Wochen in einem Risikogebiet? Zu den Risikogebieten zählen aktuell Italien, Frankreich, Spanien, Österreich, die USA, Iran und Südkorea.
+
+Haben Sie berufsbedingt viel Kontakt zu anderen Menschen?
+
+Haben Sie Fieber?
+
+Fühlen Sie sich müde?
+
+Haben Sie trockenen Husten?
+
+Müssen Sie häufig niesen oder haben Sie Schnupfen?
+
+Haben Sie Halsschmerzen?
+
+Haben Sie Gliederschmerzen?
+
+Haben Sie Kopfschmerzen?
+
+Alles klar, vielen Dank für Ihre Antworten.
