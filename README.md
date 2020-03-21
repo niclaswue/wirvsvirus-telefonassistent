@@ -13,3 +13,10 @@
 1) cd into directory
 2) docker build -t assistent .
 3) sudo docker run -it --rm --name assistent assistent
+
+## To do:
+- Find a library for playing audio
+- Extract info from answers: ja -> True, nein -> False, weiß nicht -> was? ... etc.
+- How to evaluate health condition of the caller? What model?
+- More none yes/no questions?
+- Etc.
