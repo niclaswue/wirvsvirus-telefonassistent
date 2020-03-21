@@ -7,10 +7,9 @@ This project is being developed for the "WirVsVirus" Hackathon of the german gov
 A speaker and a microphone. The following steps are meant for linux operating systems, the project also works on mac, but setup may differ slightly.
 
 ## Usage
-clone the repository
-sudo apt install python3-pyaudio
-pip install -r requirements.txt --user
-python3 chat.py
+    sudo apt install python3-pyaudio
+    pip install -r requirements.txt --user
+    python3 chat.py
 
 ## To do:
 - migrate to some phone service
