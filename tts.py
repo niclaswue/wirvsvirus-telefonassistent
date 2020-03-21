@@ -1,10 +1,19 @@
-#!/Users/bach/workspace/default/default_env/bin/python3
 from gtts import gTTS
-import sys
+import pygame
+from io import BytesIO
 
-args = sys.argv
-text = args[1]
-tts = gTTS(text, lang="de")
+pygame.init()
 
-file_name = args[2]
-tts.save(file_name)
+def say(text):
+    tts = gTTS(text=text, lang='de')
+    fp = BytesIO()
+    tts.write_to_fp(fp)
+    fp.seek(0)
+    pygame.mixer.init()
+    pygame.mixer.music.load(fp)
+    pygame.mixer.music.play()
+    while pygame.mixer.music.get_busy():
+        pygame.time.Clock().tick(10)
+
+say("Hallo, Guten Morgen!")
+say("Ich bin ein Roboter")

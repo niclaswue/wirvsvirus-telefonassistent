@@ -87,6 +87,7 @@ if __name__ == "__main__":
     with mic as source:
         print("Adjusting microphone for ambient noise...")
         r.adjust_for_ambient_noise(source)
+        r.dynamic_energy_threshold = False
 
     for sentence in script:
         print(sentence)

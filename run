@@ -1,3 +1,0 @@
-#!/bin/bash
-sudo docker build -t assistent .
-sudo docker run --device /dev/snd:/dev/snd -it --rm --name assistent assistent

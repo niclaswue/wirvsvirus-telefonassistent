@@ -11,4 +11,4 @@ with mic as source:
 
 print("Recognizing...")
 text = r.recognize_google(audio, language="de-DE")
-print(f"You said: {text}")
+print("You said: {}".format(text))
