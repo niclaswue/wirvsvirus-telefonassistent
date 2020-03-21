@@ -1,4 +1,4 @@
-# wirvsvirus-telefonassistent
+# #WirVsVirus Telefonassistent
 
 ## What is this?
 This project is being developed for the "WirVsVirus" Hackathon of the german government. The main goal is to support the community during the COVID-19 crisis. In this project prototype we develop a virtual assistant that can classify a callers symptoms and gives advice on how to proceed. 
